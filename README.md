@@ -1,6 +1,6 @@
 # Heart Disease Prediction Web Application
 
-![Heart Disease Prediction](path/to/your/image/mg1.ts) <!-- Add a path to your image here -->
+![Heart Disease Prediction](img1.PNG) <!-- Add a path to your image here -->
 
 ## Overview
 Welcome to the Heart Disease Prediction Web Application! This project leverages machine learning to predict the likelihood of heart disease based on user input data. With an intuitive interface, you can quickly assess your heart health!
